@@ -109,6 +109,6 @@ const styles = StyleSheet.create({
         marginRight: 80,
         borderRadius: 5
     },
-    topo: { height: 80, padding: 20, paddingTop: 40, marginBottom: 20, backgroundColor: '#b01376' },
+    topo: { height: 80, padding: 20, paddingTop: 40, marginBottom: 20, backgroundColor: '#4f088a' },
     topoTitulo: { fontSize: 22, marginBottom: -10, color: '#fff', textAlign: 'center' }
 })

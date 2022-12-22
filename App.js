@@ -15,7 +15,7 @@ export default function App(){
       <Stack.Navigator initialRouteName='Buscador de Livros' screenOptions={{
         headerMode: 'screen',
         headerTintColor: 'white',
-        headerStyle: { backgroundColor: '#c71585' },
+        headerStyle: { backgroundColor: '#1e6649' },
       }} >
         <Stack.Screen name="Home" component={Home} />
         <Stack.Screen name="Criar" component={Criar}  />
