@@ -29,12 +29,12 @@ export default function Home({ navigation }) {
 }
 const styles = StyleSheet.create({
     container: {
-      marginTop: 40,
-      marginLeft: 50,
-      marginRight: 50,
+      marginTop: 45,
+      marginLeft: 60,
+      marginRight: 60,
       borderWidth: 1, 
       borderColor: '#d5d5d5', 
-      borderRadius: 50, 
+      borderRadius: 20, 
       marginBottom: 10, 
       marginHorizontal: 20, 
       padding: 10,
